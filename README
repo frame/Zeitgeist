@@ -1,0 +1,10 @@
+Zeitgeist
+by Bernd Kilga <frame@console.cc>
+
+Nifty helper script to automatically download the latest Zeit.de PDF ePaper and Audio MP3 files from their premium server.
+Recommended to run on Saturdays, once per week (they push out new releases on Friday).
+
+A valid Die Zeit Premium subscription is required, fill in username/password below and pick a target directory.
+
+
+Latest version: https://github.com/frame/Zeitgeist
